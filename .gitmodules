@@ -1,0 +1,3 @@
+[submodule "PrometheusLab"]
+	path = PrometheusLab
+	url = https://github.com/alexzhyshko/PrometheusLab
